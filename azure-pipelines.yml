@@ -21,3 +21,4 @@ steps:
     effectivePomSkip: false
     sonarQubeRunAnalysis: false
     goals: 'test'
+    options: '-X -e'
